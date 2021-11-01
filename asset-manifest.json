@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sistema-solar/static/css/main.5e07969a.chunk.css",
+    "main.css": "/sistema-solar/static/css/main.29ec2780.chunk.css",
     "main.js": "/sistema-solar/static/js/main.ef76adf9.chunk.js",
     "main.js.map": "/sistema-solar/static/js/main.ef76adf9.chunk.js.map",
     "runtime-main.js": "/sistema-solar/static/js/runtime-main.ebde042e.js",
@@ -8,7 +8,7 @@
     "static/js/2.9097ae7e.chunk.js": "/sistema-solar/static/js/2.9097ae7e.chunk.js",
     "static/js/2.9097ae7e.chunk.js.map": "/sistema-solar/static/js/2.9097ae7e.chunk.js.map",
     "index.html": "/sistema-solar/index.html",
-    "static/css/main.5e07969a.chunk.css.map": "/sistema-solar/static/css/main.5e07969a.chunk.css.map",
+    "static/css/main.29ec2780.chunk.css.map": "/sistema-solar/static/css/main.29ec2780.chunk.css.map",
     "static/js/2.9097ae7e.chunk.js.LICENSE.txt": "/sistema-solar/static/js/2.9097ae7e.chunk.js.LICENSE.txt",
     "static/media/Jupiter.529cdbe0.png": "/sistema-solar/static/media/Jupiter.529cdbe0.png",
     "static/media/Marte.6cae79d3.png": "/sistema-solar/static/media/Marte.6cae79d3.png",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.ebde042e.js",
     "static/js/2.9097ae7e.chunk.js",
-    "static/css/main.5e07969a.chunk.css",
+    "static/css/main.29ec2780.chunk.css",
     "static/js/main.ef76adf9.chunk.js"
   ]
 }
