@@ -274,3 +274,17 @@ ul {
             animation-timing-function: ease-out;
   }
 }
+
+@media (max-width: 500px) {
+  h1 {
+    font-size: 2em;
+  }
+
+  h2 {
+    font-size: 1.5em;
+  }
+
+  .name-planet {
+    font-size: 1em;
+  }
+}
